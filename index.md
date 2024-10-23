@@ -15,3 +15,8 @@ Did you know you can add a code block?
 ``` Java
 System.out.println("Hello World!");
 ```
+
+Let's make a task list.
+- [x] List syntax is required
+- [x] This item is complete.
+- [ ] I dind't do this item
